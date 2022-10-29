@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.36375d58.css",
+    "main.js": "./static/js/main.aee75032.js",
+    "static/js/787.37c46113.chunk.js": "./static/js/787.37c46113.chunk.js",
+    "static/media/Violao.png": "./static/media/Violao.5453c00cb4aed048b3a2.png",
+    "static/media/violao.jpg": "./static/media/violao.98a13f7712ae22ea3397.jpg",
+    "static/media/organ.png": "./static/media/organ.120a9f3154414d0963a2.png",
+    "static/media/violino.png": "./static/media/violino.856e227d772567b7cdcf.png",
+    "static/media/acordelunar.png": "./static/media/acordelunar.170e60895652214e0ba0.png",
+    "index.html": "./index.html",
+    "main.36375d58.css.map": "./static/css/main.36375d58.css.map",
+    "main.aee75032.js.map": "./static/js/main.aee75032.js.map",
+    "787.37c46113.chunk.js.map": "./static/js/787.37c46113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36375d58.css",
+    "static/js/main.aee75032.js"
+  ]
+}
